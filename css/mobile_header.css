@@ -33,6 +33,7 @@ nav, section, article, aside, footer
     height: 20px;
     top: 12.5px;
     color: white;
+    border: 1px solid black;
 }
 nav{
     background-color: blueviolet;
